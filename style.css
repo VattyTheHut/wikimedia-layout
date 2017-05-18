@@ -1,0 +1,63 @@
+
+body{
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+a{
+  color: blue;
+  text-decoration:none;
+}
+.containor{
+  margin-left:15%;
+  margin-right:15%;
+  margin-top:2%;
+  margin-bottom:10%;
+
+}
+.x{
+  margin-left: 25%;
+  font-size: 13px;
+  margin-top: 10px;
+}
+
+.text{
+  line-height: 150%;
+}
+
+.textfin{
+  font-size: 13px;
+  margin-top: 100%;
+  margin-left: 10%
+  margin-top: 100%;
+
+  padding: 50px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 3px;
+  border-top-style: solid;
+  border-width: thin;
+
+}
+.gallory{
+  margin-top:15%;
+}
+ul{
+  list-style-type: none;
+
+}
+
+li{
+  float: left;
+}
+
+img{
+  padding: 10px;
+  margin: 10px;
+  height: 200px;
+  width: 200px;
+}
+
+#wtw{
+  float: right;
+}
